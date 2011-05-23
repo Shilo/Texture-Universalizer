@@ -1,0 +1,315 @@
+TTextureUniversalizer
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Info.plist" TextureUniversalizer-Info.plist
+cCopyStringsFile "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB /Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-bbgoiwfbwzruufexlcvqskcfcemb/TextureUniversalizer_Prefix.pch.gch TextureUniversalizer_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-ajjhitwkohefanfdjluyljyamiij/TextureUniversalizer_Prefix.pch.gch TextureUniversalizer_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/main.o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/TextureUniversalizerAppDelegate.o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/main.o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/TextureUniversalizerAppDelegate.o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer" normal x86_64
+cLd "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer" normal i386
+cCreateUniversalBinary "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer" normal "x86_64 i386"
+cGenerateDSYMFile "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app.dSYM" "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer"
+cTouch "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DD9C10E00000000000000EE
+t1306116366
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/InfoPlist.strings
+c000000004DD8C149000000000000002D
+t1306050889
+s45
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib
+c000000004DD9E50E0000000000038330
+t1306125582
+s230192
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.h
+c000000004DD9E37200000000000008E7
+t1306125170
+s2279
+i<Cocoa/Cocoa.h>
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m
+c000000004DD9EB180000000000003124
+t1306127128
+s12580
+i"TextureUniversalizerAppDelegate.h"
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizer_Prefix.pch
+c000000004DD8FA5600000000000000AB
+t1306065494
+s171
+i<Cocoa/Cocoa.h>
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app.dSYM
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Info.plist
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/PkgInfo
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer.LinkFileList
+c000000004DD9EDD7000000000000014B
+t1306127831
+s331
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/TextureUniversalizerAppDelegate.o
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer.LinkFileList
+c000000004DD9EDD7000000000000014F
+t1306127831
+s335
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/TextureUniversalizerAppDelegate.o
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m
+c000000004DD8FA5C0000000000000109
+t1306065500
+s265
+i<Cocoa/Cocoa.h>
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-ajjhitwkohefanfdjluyljyamiij/TextureUniversalizer_Prefix.pch.gch
+t1306127725
+s41281328
+
+N/var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-bbgoiwfbwzruufexlcvqskcfcemb/TextureUniversalizer_Prefix.pch.gch
+t1306127724
+s39589648
+
+NTextureUniversalizer-Info.plist
+c000000004DD98E1500000000000003E8
+t1306103317
+s1000
+
+CBuild AST from /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m
+r0
+
+CBuild AST from /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8cdb2857258ab341^e9103057258ab341^---0#1#0#--18"Check dependencies
+
+CCompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/TextureUniversalizerAppDelegate.o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s327820632.309048
+e327820632.637762
+r1
+xCompileC
+xbuild/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/TextureUniversalizerAppDelegate.o
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m213f4f58258ab341^7044a358258ab341^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m0000000000000000^2228"CompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/TextureUniversalizerAppDelegate.o TextureUniversalizerAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-generated-files.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-own-target-headers.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-all-target-headers.hmap" -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-project-headers.hmap" -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/include -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources/i386 -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources -F/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -include /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-ajjhitwkohefanfdjluyljyamiij/TextureUniversalizer_Prefix.pch -c /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m -o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/TextureUniversalizerAppDelegate.o
+
+CCompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/main.o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s327820632.089371
+e327820632.308054
+r1
+xCompileC
+xbuild/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/main.o
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m69fc1658258ab341^f0fc4e58258ab341^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m0000000000000000^2120"CompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-generated-files.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-own-target-headers.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-all-target-headers.hmap" -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-project-headers.hmap" -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/include -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources/i386 -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources -F/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -include /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-ajjhitwkohefanfdjluyljyamiij/TextureUniversalizer_Prefix.pch -c /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m -o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/main.o
+
+CCompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/TextureUniversalizerAppDelegate.o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+s327820631.931225
+e327820632.419336
+r1
+xCompileC
+xbuild/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/TextureUniversalizerAppDelegate.o
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m357dee57258ab341^04596b58258ab341^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m0000000000000000^2238"CompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/TextureUniversalizerAppDelegate.o TextureUniversalizerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvmgcc42    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-generated-files.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-own-target-headers.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-all-target-headers.hmap" -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-project-headers.hmap" -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/include -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources/x86_64 -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources -F/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -include /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-bbgoiwfbwzruufexlcvqskcfcemb/TextureUniversalizer_Prefix.pch -c /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizerAppDelegate.m -o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/TextureUniversalizerAppDelegate.o
+
+CCompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/main.o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+s327820631.931146
+e327820632.088913
+r1
+xCompileC
+xbuild/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/main.o
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m247dee57258ab341^2dcc1658258ab341^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m0000000000000000^2130"CompileC build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvmgcc42    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-generated-files.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-own-target-headers.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-all-target-headers.hmap" -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-project-headers.hmap" -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/include -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources/x86_64 -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources -F/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -include /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-bbgoiwfbwzruufexlcvqskcfcemb/TextureUniversalizer_Prefix.pch -c /Shilocity_Productions/iOS_Projects/TextureUniversalizer/main.m -o /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/main.o
+
+CCompileXIB /Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib
+s327820631.203151
+e327820631.928954
+r1
+xCompileXIB
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib:600: note: View is clipping its content [13]
+o/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib:658: note: View is clipping its content [13]
+o/* com.apple.ibtool.document.warnings */
+o/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xibfc173457258ab341^ffcfed57258ab341^-578"/* com.apple.ibtool.document.notices *//Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib:600: note: View is clipping its content [13]/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib:658: note: View is clipping its content [13]/* com.apple.ibtool.document.warnings *//Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib:371: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]3(21%IDEActivityLogMessage2@28"View is clipping its content-327820631#18446744073709551615#0#-0#-23%DVTTextDocumentLocation3@99"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib0000000000000000^599#18446744073709551615#599#18446744073709551615#18446744073709551615#0#15"Clipped Content--2@28"View is clipping its content-327820631#18446744073709551615#0#-0#-3@99"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib0000000000000000^657#18446744073709551615#657#18446744073709551615#18446744073709551615#0#15"Clipped Content--2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)58"Content rectangle not entirely on screen with the menu bar327820631#18446744073709551615#0#-1#-3@99"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib0000000000000000^370#18446744073709551615#370#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@99"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib0000000000000000^532"CompileXIB English.lproj/MainMenu.xib    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Resources/English.lproj/MainMenu.nib" /Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk
+
+CCopyStringsFile "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s327820631.202979
+e327820631.207197
+r1
+xCopyStringsFile
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.stringsbc073457258ab341^b60f3557258ab341^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/English.lproj/InfoPlist.strings0000000000000000^462"CopyStringsFile "build/Release/Texture Universalizer.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Resources/English.lproj" -- English.lproj/InfoPlist.strings
+
+CCreateUniversalBinary "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer" normal "x86_64 i386"
+s327820632.692515
+e327820632.700870
+r1
+xCreateUniversalBinary
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer
+xnormal
+xx86_64 i386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Create universal binary /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer255bb158258ab341^d36bb358258ab341^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture%20Universalizer.app/Contents/MacOS/Texture%20Universalizer0000204d2205f041^696"CreateUniversalBinary "build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer" normal "x86_64 i386"    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    /usr/bin/lipo -create "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer" "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer" -output "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer"
+
+CGenerateDSYMFile "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app.dSYM" "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer"
+s327820632.701069
+e327820632.726333
+r1
+xGenerateDSYMFile
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app.dSYM
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Generating /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app.dSYMfc8cb358258ab341^cafab958258ab341^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture%20Universalizer.app.dSYM0000204d2205f041^482"GenerateDSYMFile "build/Release/Texture Universalizer.app.dSYM" "build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer"    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    /Developer/usr/bin/dsymutil "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/MacOS/Texture Universalizer" -o "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app.dSYM"
+
+CLd "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer" normal i386
+s327820632.638560
+e327820632.692209
+r1
+xLd
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Link /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer618da358258ab341^484fb158258ab341^---0#0#0#--873"Ld "build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer" normal i386    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -F/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -filelist "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/i386/Texture Universalizer"
+
+CLd "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer" normal x86_64
+s327820632.419762
+e327820632.487834
+r1
+xLd
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer
+xnormal
+xx86_64
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Link /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer2b8a6b58258ab341^09e27c58258ab341^---0#0#0#--883"Ld "build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer" normal x86_64    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/llvm-gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -F/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -filelist "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Objects-normal/x86_64/Texture Universalizer"
+
+CProcessInfoPlistFile "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Info.plist" TextureUniversalizer-Info.plist
+s327820631.196042
+e327820631.201474
+r1
+xProcessInfoPlistFile
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Info.plist
+xTextureUniversalizer-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Process TextureUniversalizer-Info.plist363f3257258ab341^57933357258ab341^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizer-Info.plist0000000000000000^528"ProcessInfoPlistFile "build/Release/Texture Universalizer.app/Contents/Info.plist" TextureUniversalizer-Info.plist    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    builtin-infoPlistUtility TextureUniversalizer-Info.plist -genpkginfo "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app/Contents/Info.plist"
+
+CProcessPCH /Users/shilo86/Library/Developer/Xcode/DerivedData/TextureUniversalizer-gxibylzbsbasvpaysteplmtshujo/Index/PrecompiledHeaders/TextureUniversalizer_Prefix-abfpevmmfzrthyaubjdcpaaldhgl_ast/TextureUniversalizer_Prefix.pch.pth TextureUniversalizer_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/shilo86/Library/Developer/Xcode/DerivedData/TextureUniversalizer-gxibylzbsbasvpaysteplmtshujo/Index/PrecompiledHeaders/TextureUniversalizer_Prefix-chhmskaiznlxcgbywqodgrhmadxy_ast/TextureUniversalizer_Prefix.pch.pth TextureUniversalizer_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-ajjhitwkohefanfdjluyljyamiij/TextureUniversalizer_Prefix.pch.gch TextureUniversalizer_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s327820521.305513
+e327820525.277093
+r1
+xProcessPCH
+x/var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-ajjhitwkohefanfdjluyljyamiij/TextureUniversalizer_Prefix.pch.gch
+xTextureUniversalizer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile TextureUniversalizer_Prefix.pch1a4d4ee9248ab341^09fb46ed248ab341^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizer_Prefix.pch0000000000000000^2118"ProcessPCH /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-ajjhitwkohefanfdjluyljyamiij/TextureUniversalizer_Prefix.pch.gch TextureUniversalizer_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-generated-files.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-own-target-headers.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-all-target-headers.hmap" -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-project-headers.hmap" -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/include -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources/i386 -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources -F/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -c /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizer_Prefix.pch -o /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-ajjhitwkohefanfdjluyljyamiij/TextureUniversalizer_Prefix.pch.gch
+
+CProcessPCH /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-bbgoiwfbwzruufexlcvqskcfcemb/TextureUniversalizer_Prefix.pch.gch TextureUniversalizer_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvmgcc42
+s327820521.305321
+e327820525.112844
+r1
+xProcessPCH
+x/var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-bbgoiwfbwzruufexlcvqskcfcemb/TextureUniversalizer_Prefix.pch.gch
+xTextureUniversalizer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile TextureUniversalizer_Prefix.pch13434ee9248ab341^32e41ced248ab341^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizer_Prefix.pch0000000000000000^2124"ProcessPCH /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-bbgoiwfbwzruufexlcvqskcfcemb/TextureUniversalizer_Prefix.pch.gch TextureUniversalizer_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvmgcc42    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-generated-files.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-own-target-headers.hmap" "-I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-all-target-headers.hmap" -iquote "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/Texture Universalizer-project-headers.hmap" -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/include -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources/x86_64 -I/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/TextureUniversalizer.build/Release/TextureUniversalizer.build/DerivedSources -F/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release -c /Shilocity_Productions/iOS_Projects/TextureUniversalizer/TextureUniversalizer_Prefix.pch -o /var/folders/zM/zM1AXMa2EkmjcLk4oM8k5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextureUniversalizer_Prefix-bbgoiwfbwzruufexlcvqskcfcemb/TextureUniversalizer_Prefix.pch.gch
+
+CTouch "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app"
+s327820632.728153
+e327820632.736373
+r1
+xTouch
+x/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app0c77ba58258ab341^f182bc58258ab341^---0#0#0#--233"Touch "build/Release/Texture Universalizer.app"    cd /Shilocity_Productions/iOS_Projects/TextureUniversalizer    /usr/bin/touch -c "/Shilocity_Productions/iOS_Projects/TextureUniversalizer/build/Release/Texture Universalizer.app"
+
